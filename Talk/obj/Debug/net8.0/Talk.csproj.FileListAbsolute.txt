@@ -1,0 +1,15 @@
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\Talk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\Talk.AssemblyInfoInputs.cache
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\Talk.AssemblyInfo.cs
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\Talk.csproj.CoreCompileInputs.cache
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\Talk.sourcelink.json
+C:\Users\kouyo\Documents\2024CSGit2\Talk\bin\Debug\net8.0\Talk.exe
+C:\Users\kouyo\Documents\2024CSGit2\Talk\bin\Debug\net8.0\Talk.deps.json
+C:\Users\kouyo\Documents\2024CSGit2\Talk\bin\Debug\net8.0\Talk.runtimeconfig.json
+C:\Users\kouyo\Documents\2024CSGit2\Talk\bin\Debug\net8.0\Talk.dll
+C:\Users\kouyo\Documents\2024CSGit2\Talk\bin\Debug\net8.0\Talk.pdb
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\Talk.dll
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\refint\Talk.dll
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\Talk.pdb
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\Talk.genruntimeconfig.cache
+C:\Users\kouyo\Documents\2024CSGit2\Talk\obj\Debug\net8.0\ref\Talk.dll
